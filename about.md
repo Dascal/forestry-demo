@@ -23,4 +23,6 @@ The Belkirk College of Engineering (Belkirk) specializes in innovative research 
 
 ## headline
 
-<div class="tset"><small>Pupels</small></div><br><br> at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+<div class="tset"><small>Pupels</small></div><br><br>
+
+at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
