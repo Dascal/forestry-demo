@@ -3,7 +3,7 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  default: Name
+  default: Namef
   label: Name
   description: a product name
   name: NAme
