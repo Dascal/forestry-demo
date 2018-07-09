@@ -10,6 +10,11 @@ tags:
 - Forestry
 layout: post
 banner_image: ''
+menu:
+  navigation:
+    weight: 1
+    parent: _about
+    title: Test2
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 
